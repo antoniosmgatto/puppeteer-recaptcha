@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/antoniosmgatto/puppeteer-recaptcha/issues"
   },
-  "homepage": "https://github.com/antoniosmgatto/puppeteer-recaptcha#readme"
+  "homepage": "https://github.com/antoniosmgatto/puppeteer-recaptcha#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.3",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
 }
