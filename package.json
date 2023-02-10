@@ -22,6 +22,7 @@
     "dotenv": "^16.0.3",
     "puppeteer": "^19.6.3",
     "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.6",
     "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
 }
